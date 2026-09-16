@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm [ชื่อของคุณ] 👋
 
-<!--
-**Jirapong01/Jirapong01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  👋 About Me
+- 🎓 Computer Engineering Student
+- 💡 Interested in programming, web development, and technology.
+- 🛠️ Currently learning C, HTML, CSS, JavaScript, Git, and GitHub.
+
+---
+
+### 🛠️ Skills & Technologies
+- **Languages:** C, HTML, CSS, JavaScript
+- **Tools:** Git, GitHub
+- **Robotics:** LEGO Mindstorms EV3 / NXT, BBC micro:bit
+
+---
+
+### 🖼️ Add Images or Banners
+![Header Image](https://link-to-your-image.com/banner.png)
