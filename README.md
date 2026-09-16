@@ -1,22 +1,54 @@
-# Hello, I'm [ชื่อของคุณ] 👋
+# Hello, I'm Jirapong Simmala
 
-Computer Engineering Student
-
----
-
-###  👋 About Me
-- 🎓 Computer Engineering Student
-- 💡 Interested in programming, web development, and technology.
-- 🛠️ Currently learning C, HTML, CSS, JavaScript, Git, and GitHub.
+> Code the future. Create
 
 ---
 
-### 🛠️ Skills & Technologies
-- **Languages:** C, HTML, CSS, JavaScript
-- **Tools:** Git, GitHub
-- **Robotics:** LEGO Mindstorms EV3 / NXT, BBC micro:bit
+![Banner](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200)
+
+## 👋 About Me
+
+🎓 **Computer Engineering Student**
+
+I am interested in programming, web development, and technology.  
+Currently learning C, HTML, CSS, JavaScript, Git, and GitHub.  
+I enjoy creating projects and improving my skills.
 
 ---
 
-### 🖼️ Add Images or Banners
-![Header Image](https://link-to-your-image.com/banner.png)
+## 🛠️ My Engineering Projects
+
+| Computer Lab Tracking | Power Supply Simulation | C Programming Lab |
+| :---: | :---: | :---: |
+| **Lab Tracking System** | **Proteus 8 Simulation** | **C Core Logic** |
+
+---
+
+## ⚡ About My Journey
+
+🤖 Hardware & Software Enthusiast  
+💻 Programmer & Technology Lover  
+🛠️ Builder • Coder • Problem Solver  
+🚀 Always Learning & Improving  
+
+---
+
+## 💻 Skills & Technologies
+
+💻 **C**  
+🌐 **HTML • CSS • JavaScript**  
+🔧 **Git • GitHub**  
+⚡ **Proteus 8 Professional**  
+
+---
+
+## 🚀 My Goals
+
+🎯 Improve my programming skills  
+💻 Build innovative engineering projects  
+💡 Learn new technologies  
+🚀 Become a skilled Computer Engineer  
+
+---
+
+📫 **GitHub:** Jirapong01
