@@ -1,55 +1,33 @@
-# Hello, I'm Jirapong Simmala
+# ⚡ Welcome to Jirapong's Workspace ⚡
 
-> Code the future. Create
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jirapong01&label=Profile%20Views&color=0e75b6&style=flat" alt="Jirapong01" />
+</p>
 
----
-
-![Banner](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200)
-
-## 👋 About Me
-
-🎓 **Computer Engineering Student**
-
-I am interested in programming, web development, and technology.  
-Currently learning C, HTML, CSS, JavaScript, Git, and GitHub.  
-I enjoy creating projects and improving my skills.
+### 👨‍💻 About Me
+- 🎓 **Computer Engineering Student** focusing on hardware-software integration.
+- 💡 Currently working on **Circuit Simulations** and **System Architecture**.
+- 🚀 Passionate about optimizing C code and designing functional systems.
 
 ---
 
-## 🛠️ My Engineering Projects
+### 🛠️ Languages and Tools
 
-| 💻 C Programming | 🔌 Circuit Simulation | 🌐 Web Dev |
-| :---: | :---: | :---: |
-| <img src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" width="120"> | <img src="https://cdn-icons-png.flaticon.com/512/2082/2082086.png" width="120"> | <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="120"> |
-| **Core Logic & Labs** | **Proteus 8** | **Lab Tracking UI** |
-
----
-
-## ⚡ About My Journey
-
-🤖 Hardware & Software Enthusiast  
-💻 Programmer & Technology Lover  
-🛠️ Builder • Coder • Problem Solver  
-🚀 Always Learning & Improving  
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Proteus%208-FF0000?style=for-the-badge&logo=microchip&logoColor=white" />
+</p>
 
 ---
 
-## 💻 Skills & Technologies
+### 📊 GitHub Stats
 
-💻 **C**  
-🌐 **HTML • CSS • JavaScript**  
-🔧 **Git • GitHub**  
-⚡ **Proteus 8 Professional**  
-
----
-
-## 🚀 My Goals
-
-🎯 Improve my programming skills  
-💻 Build innovative engineering projects  
-💡 Learn new technologies  
-🚀 Become a skilled Computer Engineer  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jirapong01&show_icons=true&theme=radical" alt="Jirapong01's GitHub Stats" />
+</p>
 
 ---
-
-📫 **GitHub:** Jirapong01
+📫 **Contact:** Open to collaborations and learning new technologies!
