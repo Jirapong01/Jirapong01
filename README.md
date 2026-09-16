@@ -18,9 +18,10 @@ I enjoy creating projects and improving my skills.
 
 ## 🛠️ My Engineering Projects
 
-| Computer Lab Tracking | Power Supply Simulation | C Programming Lab |
+| 💻 C Programming | 🔌 Circuit Simulation | 🌐 Web Dev |
 | :---: | :---: | :---: |
-| **Lab Tracking System** | **Proteus 8 Simulation** | **C Core Logic** |
+| <img src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" width="120"> | <img src="https://cdn-icons-png.flaticon.com/512/2082/2082086.png" width="120"> | <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="120"> |
+| **Core Logic & Labs** | **Proteus 8** | **Lab Tracking UI** |
 
 ---
 
