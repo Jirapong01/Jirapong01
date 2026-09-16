@@ -1,33 +1,101 @@
-# ⚡ Welcome to Jirapong's Workspace ⚡
+<h1 align="center">
+  Hello, I'm Jirapong Simmala
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc1ZWN4a2N5eHc1cW8xY295bHExNno1bnp6MnR6ZTg1NW8xYXcycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
+       width="80"
+       style="vertical-align: middle;">
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jirapong01&label=Profile%20Views&color=0e75b6&style=flat" alt="Jirapong01" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&height=50&lines=Engineering+the+Future;Code.+Circuits.+Architecture." alt="Typing SVG" />
 </p>
 
-### 👨‍💻 About Me
-- 🎓 **Computer Engineering Student** focusing on hardware-software integration.
-- 💡 Currently working on **Circuit Simulations** and **System Architecture**.
-- 🚀 Passionate about optimizing C code and designing functional systems.
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Proteus%208-FF0000?style=for-the-badge&logo=microchip&logoColor=white" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXAwa3NudmE2cTNsMWo4a25xYnhxeGFteXZoazM0aGVjYnR5azMydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif"
+       width="800"
+       height="450">
 </p>
 
----
+<hr style="height:5px; background-color:black; border:none;">
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jirapong01&show_icons=true&theme=radical" alt="Jirapong01's GitHub Stats" />
+<h2>👋 About Me</h2>
+
+<b>
+🎓 Computer Engineering Student<br><br>
+
+I am deeply interested in system architecture, hardware-software integration, and electronics.<br>
+Currently mastering C, HTML, CSS, JavaScript, and circuit simulation tools like Proteus 8.<br>
+I enjoy optimizing code and designing logical systems that solve real-world problems.
+</b>
+
+
+
+<hr style="height:5px; background-color:black; border:none;">
+
+<h1>🛠️ Core Skills & Tools</h1>
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="200" height="200">
+<br>
+<b>C Programming</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="200" height="200">
+<br>
+<b>Hardware & Circuits</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="200" height="200">
+<br>
+<b>Web Development</b>
+</td>
+</tr>
+</table>
+
+<hr style="height:5px; background-color:black; border:none;">
+
+
+<h2>⚡ About My Journey</h2>
+
+<p>
+  ⚙️ Embedded Systems & Architecture Enthusiast<br>
+  💻 Programmer & Logic Thinker<br>
+  🛠️ Builder • Coder • Problem Solver<br>
+  🚀 Always Learning & Optimizing
 </p>
 
----
-📫 **Contact:** Open to collaborations and learning new technologies!
+<hr style="height:5px; background-color:black; border:none;">
+
+
+<h2>💻 Skills & Technologies</h2>
+
+<p>
+  💻 C Programming (Pointers, Memory Management, Data Structures)<br>
+  🌐 HTML • CSS • JavaScript<br>
+  🔧 Git • GitHub<br>
+  🔌 Circuit Simulation (Proteus 8 Professional)<br>
+  ⚡ Hardware Architecture
+</p>
+
+<hr style="height:5px; background-color:black; border:none;">
+
+
+<h2>🚀 My Goals</h2>
+
+<p>
+  🎯 Master low-level programming and memory management<br>
+  ⚙️ Build robust embedded systems and IoT projects<br>
+  💡 Learn advanced hardware technologies<br>
+  🚀 Become a proficient Systems Engineer
+</p>
+
+<hr style="height:5px; background-color:black; border:none;">
+
+<p>
+  💻 GitHub: <b>Jirapong01</b><br>
+  🌐 Portfolio: <a href="https://Jirapong01.github.io">Jirapong01.github.io</a>
+</p>
